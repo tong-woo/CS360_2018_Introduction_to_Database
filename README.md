@@ -1,6 +1,6 @@
 # CS360_2018_Introduction_to_Database
 
-##Term Project
+## Term Project
 Implement a python program that builds a B+ tree for a table
 
 **B+ tree constraints**
